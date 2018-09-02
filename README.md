@@ -6,6 +6,7 @@
 # To run:
   1) type "make" in command line
   2) type "./battleships" to run 
+  3) for board size "./battleships [collums] [rows]"
 
 Project description:  
 Code a bot to run in anyway with any algorithm to complete the game in the least amount of moves possible for all possible board sizes.   
